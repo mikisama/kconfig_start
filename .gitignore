@@ -1,0 +1,5 @@
+venv
+build
+.config
+.config.old
+config.h

@@ -1,0 +1,5 @@
+config FOO
+	int "foo description"
+	default 0
+	help
+	    foo help.
